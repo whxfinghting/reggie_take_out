@@ -2,7 +2,7 @@ server:
   port: 8080
 spring:
   redis:
-    host: 192.168.85.133
+    host: 192.168.85.134
   #Redis服务器连接端口
     port: 6379
   #Redis数据库索引（默认为0）
